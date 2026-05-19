@@ -1,7 +1,7 @@
 ---
-title: "Secure Systems Lab - Team"
+title: "DNet GT Lab - Team"
 layout: gridlay
-excerpt: "Secure Systems Lab: Team members"
+excerpt: "DNet GT Lab Team members"
 sitemap: false
 permalink: /team/
 ---

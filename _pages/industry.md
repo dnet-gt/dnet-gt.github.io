@@ -1,7 +1,7 @@
 ---
-title: "Secure Systems Lab - Industry Collaborations"
+title: "DNet GT Lab - Industry Collaborations"
 layout: gridlay
-excerpt: "Secure Systems Lab -- Industry Collaborations."
+excerpt: "DNet GT Lab -- Industry Collaborations."
 sitemap: false
 permalink: /industry/
 ---

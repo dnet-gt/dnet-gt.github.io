@@ -1,7 +1,7 @@
 ---
-title: "Secure Systems Lab - Publications"
+title: "DNet GT Lab - Publications"
 layout: gridlay
-excerpt: "Secure Systems Lab -- Publications."
+excerpt: "DNet GT Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

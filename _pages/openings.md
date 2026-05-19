@@ -1,5 +1,5 @@
 ---
-title: "Secure Systems Lab - Vacancies"
+title: "DNet GT Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

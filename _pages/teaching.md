@@ -1,5 +1,5 @@
 ---
-title: "Secure Systems Lab - Teaching"
+title: "DNet GT Lab - Teaching"
 layout: textlay
 excerpt: "Practicals"
 sitemap: false

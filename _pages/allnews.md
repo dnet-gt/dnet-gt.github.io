@@ -1,7 +1,7 @@
 ---
-title: "Secure Systems Lab - News"
+title: "DNet GT Lab - News"
 layout: textlay
-excerpt: "Secure Systems Lab at KU Leuven, Group T."
+excerpt: "DNet GT Lab at KU Leuven, Group T."
 sitemap: false
 permalink: /allnews/
 ---

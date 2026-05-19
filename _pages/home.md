@@ -1,7 +1,7 @@
 ---
-title: "Secure Systems Lab - Home"
+title: "DNet GT Lab - Home"
 layout: homelay
-excerpt: "Secure Systems Lab at KU Leuven, Group T."
+excerpt: "DNet GT Lab at KU Leuven, Group T."
 sitemap: false
 permalink: /
 ---

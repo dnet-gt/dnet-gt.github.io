@@ -1,5 +1,5 @@
 ---
-title: "Secure Systems Lab - Blog"
+title: "DNet GT Lab - Blog"
 layout: default
 permalink: /blog/
 ---

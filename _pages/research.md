@@ -1,14 +1,14 @@
 ---
-title: "Secure Systems Lab - Research"
+title: "DNet GT Lab - Research"
 layout: textlay
-excerpt: "Secure Systems Lab -- Research"
+excerpt: "DNet GT Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 ## Research
 
-The Secure Systems Lab conducts research on secure distributed systems, software engineering, privacy-enhancing technologies, artificial intelligence for software development, and decentralized applications.  
+The DNet GT Lab conducts research on secure distributed systems, software engineering, privacy-enhancing technologies, artificial intelligence for software development, and decentralized applications.  
 The group focuses on building reliable, scalable, and intelligent software systems for modern distributed environments.
 
 ### Current Research Themes
