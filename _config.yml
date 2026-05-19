@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Secure Systems Lab
+title: The DNet GT Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Website of the Secure Systems Lab.
+  Website of the DNet GT Lab.
 baseurl: ""
 url: ""
 
