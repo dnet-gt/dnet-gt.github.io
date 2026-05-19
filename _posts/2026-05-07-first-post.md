@@ -7,7 +7,7 @@ author: "Pooya Rostami Mazrae"
 
 # Welcome
 
-This is the first blog post on the SecureSystems Lab website.
+This is the first blog post on the DNet GT Lab website.
 
 We are currently setting up the website infrastructure and preparing the initial research pages, publications, and project descriptions.
 
