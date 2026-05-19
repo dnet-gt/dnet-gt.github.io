@@ -1,0 +1,51 @@
+- title: "TechSecure Solutions"
+  image: rock.jpg
+  description: >
+    TechSecure Solutions develops cybersecurity platforms for enterprise
+    infrastructure and cloud-native applications.
+
+  collaboration: >
+    We collaborated on AI-assisted vulnerability detection and automated
+    software quality analysis for large-scale distributed systems.
+
+  impact: >
+    The collaboration helped improve bug triaging efficiency and supported
+    earlier detection of security vulnerabilities during development.
+
+  technologies:
+    - AI
+    - Cybersecurity
+    - Static Analysis
+    - Software Quality
+
+  link:
+    url: https://example.com
+    display: Company Website
+
+  highlight: 1
+
+- title: "EmbeddedAI Systems"
+  image: rock.jpg
+
+  description: >
+    EmbeddedAI Systems develops intelligent embedded software solutions
+    for industrial automation and IoT devices.
+
+  collaboration: >
+    Our research focused on predictive bug detection and reliability analysis
+    for embedded control software.
+
+  impact: >
+    The collaboration supported more reliable release cycles and reduced
+    debugging effort for critical components.
+
+  technologies:
+    - Embedded Systems
+    - AI
+    - Reliability Engineering
+
+  link:
+    url: https://example.com
+    display: Company Website
+
+  highlight: 1

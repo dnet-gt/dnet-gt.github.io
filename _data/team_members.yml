@@ -1,0 +1,94 @@
+- name: Bert Lagaisse
+  photo: bert-lagaisse.jpg
+  role: head
+  info: Professor
+  # email: bert.lagaisse@kuleuven.be
+  number_educ: 4
+  education1: Associate professor <a href="https://www.kuleuven.be/wieiswie/en/unit/regional/51267666">Faculty of Engineering Technology at KU Lueven Group T</a>
+  education2: Coordinator of <a href="https://www.kuleuven.be/wieiswie/en/unit/regional/55685458">Research and Education - Electronics-ICT, Group T Leuven Campus</a>
+  education3: Coordinator of <a href="https://www.kuleuven.be/wieiswie/en/unit/regional/55685438">Research and Education - Electronics-ICT, De Nayer (Sint-Katelijne-Waver) Campus</a>
+  education4: Head of the <a href="https://www.kuleuven.be/wieiswie/en/unit/regional/58580469">Subdivision 24, Group T Leuven Campus</a>
+
+- name: Pooya Rostami Mazrae
+  photo: pooya-rostami.jpg
+  role: postdoc
+  info: Postdoctoral researcher
+  # email: pooya.rostamimazrae@kuleuven.be
+  number_educ: 2
+  education1: PhD at <a href="https://web.umons.ac.be/en/">University of Mons</a>
+  education2: MSc at Sharif University of Technology
+  education3: BSc at Khaje Nasir University of Technology
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   role: postdoc
+#   info: See <a href="http://www.securesystems-lab.github.io/vacancies">openings</a> for more info
+#   email: email
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:
+
+- name: Vivian Tsang
+  photo: vivian-tsang.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at KU Leuven Group T
+  education2: BSc at KU Leuven Group T
+
+- name: Toon Dehaene
+  photo: toon-dehaene.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at Aarhus University
+  education2: BSc at ...
+
+- name: Nelly Zurabyan
+  photo: nelly-zurabyan.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at Yerevan State University
+  education2: BSc at Yerevan State University
+
+- name: Tianyu Li
+  photo: tianyu-li.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at Shanghai Jiao Tong University
+  education2: BSc at ...
+
+- name: Chaomeng Lu
+  photo: chaomeng-lu.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at North China University of Science and Technology
+  education2: BSc at ...
+
+- name: Mohammad Pishdar
+  photo: mohammad-pishdar.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at Bu-Ali Sina University
+  education2: BSc at ...
+
+- name: "This could be you !"
+  photo: rock.jpg
+  role: phd
+  info: See <a href="http://www.securesystems-lab.github.io/vacancies">openings</a> for more info
+  # email: email
+  number_educ: 0
+  education1:
+  education2:
+  education3:
