@@ -9,6 +9,15 @@
   education3: Coordinator of <a href="https://www.kuleuven.be/wieiswie/en/unit/regional/55685438">Research and Education - Electronics-ICT, De Nayer (Sint-Katelijne-Waver) Campus</a>
   education4: Head of the <a href="https://www.kuleuven.be/wieiswie/en/unit/regional/58580469">Subdivision 24, Group T Leuven Campus</a>
 
+- name: Dave singelée
+  photo: dave-singelee.jpg
+  role: head
+  info: Professor
+  # email: dave.singelee@kuleuven.be
+  number_educ: 2
+  education1: Associate professor <a href="https://www.kuleuven.be/wieiswie/en/unit/regional/51267666">Faculty of Engineering Technology at KU Lueven Group T</a>
+  education2: Head of the <a href="https://www.kuleuven.be/wieiswie/en/unit/regional/58817533">Subdivision 25, Group T Leuven Campus</a>
+
 - name: Pooya Rostami Mazrae
   photo: pooya-rostami.jpg
   role: postdoc

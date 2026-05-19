@@ -48,12 +48,19 @@ The group focuses on building reliable, scalable, and intelligent software syste
 
 ---
 
-### Co-supervised Projects
+### Projects Co-Supervised by Bert Lagaisse
 
 - **SODISA**  
   Scalable Software Development and Infrastructure for Self-sovereign Applications
 
 - **Client-centric Replication for the Decentralized Web**
+
+---
+
+### Projects Supervised by Dave singelée
+
+- **Realization of secure IoT systems**  
+  The long-term research objective of this project is to design novel security and privacy solutions for IoT and cyber-physical (CP) systems, with a particular emphasis on system security. The research activities are organized into four research lines: - security of wireless communication networks - secure localization techniques - security lifecycle management - secure medical systems
 
 ---
 
