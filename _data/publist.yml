@@ -33,3 +33,48 @@
     url: https://doi.org/10.48550/arXiv.2512.10485
     display: arXive Link
   highlight: 0
+
+- title: "Enhancing Effective Bidirectional Isolation for Function Fusion in Serverless Architectures"
+  # image: rock.jpg
+  description: Serverless computing has emerged as a popular paradigm in modern cloud environments, offering flexibility and scalability to tenants. A serverless function might handle sensitive tenant data. Employing Trusted Execution Environment (TEE) techniques to protect such a function from untrusted cloud service providers is attractive for tenant privacy. However, this introduces response latency, thereby impacting the performance of function execution. This paper introduces Fundue, a serverless architecture with bidirectional isolation between tenant and cloud provider that achieves light-weight isolation of functions and reduces cold start latency by fusing functions. Fundue enables multiple functions uploaded by the same tenant to share a single execution environment embedded into the enclave. Fundue allocates separate memory for each serverless function within the execution environment and establishes robust isolation between functions through bounds checking mechanisms. We extensively evaluate Fundue with diverse workloads and representative serverless functions. Our results demonstrate a significant reduction in response latency of serverless function execution, ranging from 17.8% to 88.7% compared to AccTEE, an open-source two-way sandbox serverless framework. Additionally, Fundue mitigates vulnerabilities in existing execution environments, such as stack-based buffer overflows.
+  authors: Tianyu Li, Chen Yingpeng, Donghui Yu, Yuanyuan Zhang, Bert Lagaisse
+  link:
+    url: https://doi.org/10.1145/3652892.3654778
+    display: Paper DOI
+  highlight: 0
+
+- title: "BeauForT: Robust Byzantine Fault Tolerance for Client-centric Mobile Web Application"
+  # image: rock.jpg
+  description: In recent years, part of the web is shifting to a client-centric, decentralized model where web clients become the leading execution environment for application logic and data storage. However, current solutions to build decentralized web applications with multiple distrusting parties often involve a decentralized backend of servers running a BFT protocol between them. Existing consensus protocols using either all-to-all communication, or leader-based gossip suffer from performance degradation in unstable network conditions. In this paper, we present BeauForT, a purely browser-based platform for decentralized BFT consensus in client-centric, community-driven applications. We propose a novel, optimistic, leaderless, gossip-based consensus protocol, tolerating Byzantine replicas, combined with a robust and efficient state-based synchronization protocol. This protocol makes BeauForT well suited for the decentralized client-centric web and its dynamic nature with many network disruptions or node failures.
+  authors: Kristof Jannes, Emad Heydari Beni, Bert Lagaisse, Wouter Joosen
+  link:
+    url: https://doi.org/10.1109/TPDS.2023.3241963
+    display: Paper DOI
+  highlight: 0
+
+- title: "DEDACS: Decentralized and dynamic access control for smart contracts in a policy-based manner"
+  # image: rock.jpg
+  description: Distributed Ledger Technology (DLTs) or blockchains have been steadily emerging and providing innovation in the past decade for several use cases, ranging from financial networks, to notarization, or trustworthy execution via smart contracts. DLTs are enticing due to their properties of decentralization, non-repudiation, and auditability (transparency). These properties are of high potential to access control systems that can be implemented on-chain, and are executed without infringement and full transparency. While it remains uncertain which use cases will truly turn out to be viable, many use cases such as financial transactions can benefit from integrating certain restrictions via access control on the blockchain. In addition, smart contracts may in the future present security risks that are currently yet unknown. As a solution, access control policies can provide flexibility in the execution flow when adopted by smart contracts. In this paper, we present our DEDACS architecture which provides decentralized and dynamic access control for smart contracts in a policy-based manner. Our access control is expressive as it features policies, and dynamic as the environment or users can be changed, or alternative policies can be assigned to smart contracts. DEDACS ensures that our access control preserves the desired properties of decentralization and transparency, while aiming to keep the costs involved as minimal as possible. We have evaluated DEDACS in the context of a Uniswap token-exchange platform, in which we evaluated the costs related to (i) the introduced overhead at deployment time and (ii) the operational overhead cost. DEDACS introduces a relative overhead of on average 52% at deployment time, and an operational overhead between 52% and 80% depending on the chosen policy and its complexity.
+  authors: Kristof Jannes, Vincent Reniers, Wouter Lenaerts, Bert Lagaisse, Wouter Joosen
+  link:
+    url: https://doi.org/10.1145/3555776.3577676
+    display: Paper DOI
+  highlight: 0
+
+- title: "Masking Location Streams in the Presence of Colluding Service Providers"
+  # image: rock.jpg
+  description: Many service providers rely on location data or streams to offer personalized services. However, reckless release of location streams can have serious privacy implications, especially with respect to sensitive zones, paths and time intervals. Unfortunately, current approaches by mobile platform providers to enhance privacy expose major shortcomings, especially with respect to releasing location information of frequently visited areas and in the presence of colluding service providers that are willing to combine local knowledge to retrieve more accurate information.This paper presents a practical approach to obfuscate location streams in the presence of the aforementioned challenges. Our solution combines multiple technologies and is validated through the development of a novel privacy-friendly location service in Android. It aims to realize a reasonable trade-off between privacy and utility concerns respectively raised by end-users and service providers. Thereby, sensitive locations, zones, paths, timestamps, and time intervals are highly configurable.
+  authors: Toon Dehaene, Michiel Willocx, Bert Lagaisse, Vincent Naessens
+  link:
+    url: https://doi.org/10.1109/EuroSPW59978.2023.00051
+    display: Paper DOI
+  highlight: 0
+
+- title: "Poster: Privacy-Preserving Heat Map Generation through Spatial and Temporal Local Perturbation"
+  # image: rock.jpg
+  description: Businesses and governments increasingly apply machine learning and AI techniques for various strategic optimization purposes. Many applications, however, require location data over time of many individuals to train models. Currently, location streams are collected -- often without the end-user's consent or even knowledge -- by means of seemingly innocent smartphone applications that continuously report location data in a background process, raising serious privacy concerns. In this poster, we propose a transparent and privacy-friendly approach that perturbs sensitive location data in two dimensions, namely spatially and temporally. The mechanism can be deployed on mobile devices such that all obfuscation is executed locally, thereby protecting the user even in the presence of an untrustworthy data collector. The viability of the proposed mechanism is demonstrated by generating heat maps and predicting hot spots based on privacy-preserving location streams of many users.
+  authors: Toon Dehaene, Michiel Willocx, Bert Lagaisse, Vincent Naessens
+  link:
+    url: https://doi.org/10.5281/zenodo.8197519
+    display: Poster DOI
+  highlight: 0
