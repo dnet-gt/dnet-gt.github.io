@@ -25,7 +25,7 @@
   # email: pooya.rostamimazrae@kuleuven.be
   number_educ: 2
   education1: PhD at <a href="https://web.umons.ac.be/en/">University of Mons</a>
-  education2: MSc at Sharif University of Technology
+  education2: MSc at <a href="https://en.sharif.ir/">Sharif University of Technology</a>
   education3: BSc at Khaje Nasir University of Technology
 
 # - name: "This could be you !"
@@ -38,32 +38,14 @@
 #   education2:
 #   education3:
 
-- name: Vivian Tsang
-  photo: vivian-tsang.jpg
-  role: phd
-  info: PhD student
-  # email: email
-  number_educ: 1
-  education1: MSc at KU Leuven Group T
-  education2: BSc at KU Leuven Group T
-
 - name: Toon Dehaene
   photo: toon-dehaene.jpg
   role: phd
   info: PhD student
   # email: email
   number_educ: 1
-  education1: MSc at Aarhus University
+  education1: MSc at <a href="https://international.au.dk/">Aarhus University</a>
   education2: BSc at ...
-
-- name: Nelly Zurabyan
-  photo: nelly-zurabyan.jpg
-  role: phd
-  info: PhD student
-  # email: email
-  number_educ: 1
-  education1: MSc at Yerevan State University
-  education2: BSc at Yerevan State University
 
 - name: Tianyu Li
   photo: tianyu-li.jpg
@@ -71,7 +53,7 @@
   info: PhD student
   # email: email
   number_educ: 1
-  education1: MSc at Shanghai Jiao Tong University
+  education1: MSc at <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>
   education2: BSc at ...
 
 - name: Chaomeng Lu
@@ -80,8 +62,35 @@
   info: PhD student
   # email: email
   number_educ: 1
-  education1: MSc at North China University of Science and Technology
+  education1: MSc at <a href="https://international.ncst.edu.cn/">North China University of Science and Technology</a>
   education2: BSc at ...
+
+- name: Nelly Zurabyan
+  photo: nelly-zurabyan.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at <a href="https://www.ysu.am/en">Yerevan State University</a>
+  education2: BSc at <a href="https://www.ysu.am/en">Yerevan State University</a>
+
+- name: Seppe Wyns
+  photo: seppe-wyns.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at <a href="https://www.vub.be/en">VUB</a>
+  education2: BSc at <a href="https://www.vub.be/en">VUB</a>
+
+- name: Vivian Tsang
+  photo: vivian-tsang.jpg
+  role: phd
+  info: PhD student
+  # email: email
+  number_educ: 1
+  education1: MSc at <a href="https://www.kuleuven.be/campussen/campus-groep-t-leuven">KU Leuven Group T</a>
+  education2: BSc at <a href="https://www.kuleuven.be/campussen/campus-groep-t-leuven">KU Leuven Group T</a>
 
 - name: Mohammad Pishdar
   photo: mohammad-pishdar.jpg
@@ -89,8 +98,8 @@
   info: PhD student
   # email: email
   number_educ: 1
-  education1: MSc at Bu-Ali Sina University
-  education2: BSc at ...
+  education1: MSc at <a href="https://basu.ac.ir/en/">Bu-Ali Sina University</a>
+  education2: cybersecurity researcher
 
 - name: "This could be you !"
   photo: rock.jpg

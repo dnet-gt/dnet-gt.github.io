@@ -79,6 +79,60 @@
     display: Poster DOI
   highlight: 0
 
+- title: "Replication Data for: Penetration Testing in Wind Farms: Detection and Impact Analysis"
+  # image: rock.jpg
+  description: This repository includes the source code of four attacks we developed. Furthermore it contains the configuration files for Snort, Suricata, and Zeek - the state-of-the-art for network-based intrusion detection systems, as well as the IDS signatures we proposed in our paper "Penetration Testing in Wind Farms, Detection and Impact Analysis" for the ISGT_2025 conference. (2026-04-30)
+  authors: Can Özkan, Dave Singelée, Amirreza Jafari anarjan, Rick Loenders, Hakan Ergun
+  link:
+    url: https://doi.org/10.48804/U813HN
+    display: Replication Package DOI
+  highlight: 0
+
+- title: "Replication Data for: A Novel Evidence-Based Threat Enumeration Methodology for ICS"
+  # image: rock.jpg
+  description: The aim of this repository is to provide the software implementation of our ICS Threat Generation Methodology. In the paper, we propose a threat enumeration methodology that can be used in threat modeling exercises. This repo contains the implementation of the proposed methodology. Before use, request an API Key from NIST from https://nvd.nist.gov/developers/request-an-api-key. Then, replace your API key in final_app.py file api_key variable at line 474 (2026-04-30)
+  authors: Can Özkan, Dave Singelée
+  link:
+    url: https://doi.org/10.48804/EWZQT5
+    display: Replication Package DOI
+  highlight: 0
+
+- title: "CCAM-DI: Reinforcement Learning-Based Autonomous Intersection Control"
+  # image: rock.jpg
+  description: This dataset contains the code, configurations, and trained models for a reinforcement learning (RL)-based autonomous intersection control system developed using a multi-agent framework and the SUMO traffic simulator. The first study (On Performance Improvement of Reinforcement Learning for Collision Avoidance in Autonomous Intersections) introduces methods to improve RL training efficiency by filtering irrelevant observations and actions, leading to better performance in collision avoidance. The second study (Evaluating the Robustness of RL-based Autonomous Intersection Control to Data Integrity Attacks) extends this work by analyzing the robustness of the trained policies under data integrity attacks, where malicious agents manipulate position information. The dataset includes implementation files, environment settings, and trained models that allow users to reproduce the experiments and evaluate both performance improvements and robustness aspects. Users can run the provided scripts to train or test policies under normal and adversarial conditions, making the dataset suitable for benchmarking and further research on secure autonomous traffic control. (2026-04-30)
+  authors: Árpád Huszák, Takahito Yoshizawa, Alireza Aghabagherloo, Dave Singelée, Bart Preneel
+  link:
+    url: https://doi.org/10.48804/UVKAPL
+    display: Paper DOI
+  highlight: 0
+
+- title: "Replication Data for: One Tap to Hijack Them All: A Security Analysis of the Google Fast Pair Protocol"
+  # image: rock.jpg
+  description: Google Fast Pair enables one-tap pairing and account synchronisation across supported Bluetooth accessories. While Fast Pair has been adopted by many popular consumer brands, we discovered that many flagship products have not implemented Fast Pair correctly, introducing a flaw that allows an attacker to hijack devices and track victims using Google's Find Hub network. We introduce WhisperPair, a family of practical attacks that leverages a flaw in the Fast Pair implementation on flagship audio accessories. Our findings show how a small usability 'add-on' can introduce large-scale security and privacy risks for hundreds of millions of users. This artefact provides a testing harness to check for the WhisperPair vulnerability reported in the paper "One Tap to Hijack Them All A Security Analysis of the Google Fast Pair Protocol" (IEEE S&P 2026). (2026-04-09)
+  authors: Sayon Duttagupta, Seppe Wyns, Nikola Antonijević, Dave Singelée, Bart Preneel
+  link:
+    url: https://doi.org/10.48804/CD30CC
+    display: Replication Package DOI
+  highlight: 0
+
+- title: "Certificate revocation-search for a way forward"
+  # image: rock.jpg
+  description: Revocation of digital certificates represents a series of improvements by IETF in order to standardize a complete and effective solution. This applies to the context of Internet web sites in which web servers and browsers use digital certificates to establish Transport Layer Security (TLS). Despite IETF’s effort over the years to establish a reliable revocation mechanism, including Certificate Revocation List (CRL), Online Certificate Status Protocol (OCSP) and its variants, various technical issues hinder complete resolution of the revocation problem. At the same time, all major browser vendors implement their own proprietary solutions to address the revocation problem. As a result, revocation solutions are fragmented, incomplete, and ineffective, and the level of real-world acceptance of standardized solutions is limited. To address this situation, in 2020, IETF has introduced short-term certificate concept to avoid revocation altogether. It is called Support for Short-Term, Automatically Renewed (STAR) which recommends a validity period of 4 days. To measure the level of adoption of this new approach in the Internet, we collected and analyzed web server certificates from 1 million websites; the result of our extensive analysis indicates that this scheme has not gained traction in reality. In fact, we found no implementation of a 4-day validity period out of more than 1.5 million server certificates that we collected. This situation indicates that the latest IETF effort to promote short-term certificates has not materialized, with no clear alternative solution in sight to resolve the revocation issue. We present our insights into the reasons for this absence of traction in reality and present our view of a possible way forward.
+  authors: Takahito Yoshizawa, Himanshu Agarwal, Dave Singelee, Bart Preneel
+  link:
+    url: https://doi.org/10.1016/j.cose.2025.104814
+    display: Paper DOI
+  highlight: 0
+
+- title: "Replication Data for: CovFUZZ: Coverage-based fuzzer for 4G&5G protocols"
+  # image: rock.jpg
+  description: This repository provides the implementation (source code) of CovFuzz fuzzing framework and experimental results associated with the paper "CovFuzz Coverage-based fuzzer for 4G&5G protocols", presented at EuroS&P 2025. It provides everything needed to reproduce the results from the paper and to run fuzzing campaigns against both simulation-based and real (physical) 4G and 5G targets. (2025-12-04)
+  authors: Ilja Siroš, Dave Singelée, Bart Preneel
+  link:
+    url: https://doi.org/10.48804/CMHKOP
+    display: Replication Package DOI
+  highlight: 0
+
 - title: "ZeroTouch: Reinforcing RSS for Secure Geofencing"
   # image: rock.jpg
   description: Geofencing, the virtual demarcation of physical spaces, is widely used for managing the localisation of Internet of Things (IoT) devices. However, traditional localisation techniques face security challenges indoors due to signal interference and susceptibility to spoofing, often requiring extensive calibration or extra hardware, limiting scalability. In this work, we propose ZeroTouch, a machine learning-based system that leverages Received Signal Strength (RSS) measurements from multiple receivers to improve the security of geofencing without introducing additional deployment overhead. While RSS-based localisation is known to have inherent security limitations, we show that by aggregating RSS readings from multiple anchor points and detecting anomalies using an autoencoder model, ZeroTouch provides a practical and automated mechanism for verifying whether a device is inside or outside a defined boundary. Rather than serving as a standalone security mechanism, ZeroTouch enhances existing authentication frameworks by adding an additional zero-touch security layer that operates passively in the background. ZeroTouch eliminates manual calibration, removes the human-in-the-loop element, and simplifies deployment. We evaluate our solution in a realistic simulated environment and demonstrate that it achieves high accuracy in distinguishing between in-room and out-of-room devices, even in strong adversarial settings.
@@ -104,13 +158,4 @@
   link:
     url: https://doi.org/10.1145/3264628
     display: Paper DOI
-  highlight: 0
-
-- title: "Replication Data for: Penetration Testing in Wind Farms: Detection and Impact Analysis"
-  # image: rock.jpg
-  description: This repository includes the source code of four attacks we developed. Furthermore it contains the configuration files for Snort, Suricata, and Zeek - the state-of-the-art for network-based intrusion detection systems, as well as the IDS signatures we proposed in our paper "Penetration Testing in Wind Farms, Detection and Impact Analysis" for the ISGT_2025 conference. (2026-04-30)
-  authors: Can Özkan, Dave Singelée, Amirreza Jafari anarjan, Rick Loenders, Hakan Ergun
-  link:
-    url: https://doi.org/10.48804/U813HN
-    display: Replication Package DOI
   highlight: 0
