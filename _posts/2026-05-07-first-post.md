@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to the SecureSystems Lab Website"
+title: "Welcome to the DNet GT Website"
 date: 2026-05-07
 author: "Pooya Rostami Mazrae"
 ---
